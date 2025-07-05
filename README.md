@@ -51,7 +51,7 @@ Save results in a file like alert_YYYY-MM-DD_HH-MM-SS.log
 
 ## Project Structure
 ```
-/.
+./
 ├── detect_keylogger.sh
 ├── alerts/
 │   └── alert_<timestamp>.log
