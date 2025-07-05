@@ -20,7 +20,7 @@ This script performs a series of checks across your system to detect signs of ke
 
 ---
 
-## 🛠️ Requirements
+##  Requirements
 
 - Bash
 - `ps`, `grep`, `awk`, `find` (default on most Linux/macOS)
