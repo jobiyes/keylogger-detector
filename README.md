@@ -23,7 +23,7 @@ This script performs a series of checks across your system to detect signs of ke
 ##  Requirements
 
 - Bash
-- `ps`, `grep`, `awk`, `find` (default on most Linux/macOS)
+- `ps`, `grep`, `awk`, `find` (default on most Linux)
 - Optional: `inotify-tools` (for real-time file watching)
 
 Install `inotify-tools` on Linux:
